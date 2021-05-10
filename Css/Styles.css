@@ -1,0 +1,113 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background: rgb(42,42,136);
+background: radial-gradient(circle, rgba(42,42,136,1) 35%, rgba(0,104,255,1) 100%);
+
+    
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+.contenedor{
+width: 95%;
+padding: 40px ;
+margin:auto;
+margin-top: 30px;
+
+
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    color: white;
+}
+.introduccion{
+    padding:10px;
+   
+   margin: auto;
+    margin-bottom: 15px;
+    
+}
+#articulo1{
+
+    background-color: rgb(165, 163, 163);
+    border-radius: 10px;
+    padding:15px;
+    margin-bottom: 20px;
+}
+#articulo2{
+
+    background-color: rgb(165, 163, 163);
+    border-radius: 10px;
+    padding:15px;
+    margin-bottom: 20px;
+}
+
+.colombia>li{
+    float: left;
+    margin-left: 15%;
+    list-style: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: cornflowerblue;
+    border: 1px solid black;
+   
+}
+.liga1{
+padding: 15px;
+border-radius: 10px;
+margin-top: 40px;
+background-color: rgb(165, 163, 163);
+overflow: hidden;
+}
+.España>li{
+    
+    float: left;
+    margin-left: 15%;
+    list-style: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: cornflowerblue;
+    border: 1px solid black;
+}
+.liga2{
+    padding: 15px;
+border-radius: 10px;
+    margin-top: 40px;
+    background-color: rgb(165, 163, 163);
+overflow: hidden;
+}
+
+.Inglaterra>li{
+    float: left;
+    margin-left: 15%;
+    list-style: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: cornflowerblue;
+    border: 1px solid black;
+}
+
+.liga3{
+    padding: 15px;
+border-radius: 10px;
+    margin-top: 40px;
+    background-color: rgb(165, 163, 163);
+    overflow: hidden;
+}
+h2{
+    
+        text-align: left;
+        font-family: cursive;
+        margin-left: 12px;
+        margin-top: 45px;
+        color: white;
+}
+
+h3{
+       
+        font-family: cursive;
+}
